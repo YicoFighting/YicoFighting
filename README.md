@@ -2,18 +2,42 @@
 
 ![Modern C++ template][github-sub-title:img]
 
-<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YicoFighting&show_icons=true&theme=radical) -->
+[![掘金](https://img.shields.io/badge/%E6%8E%98%E9%87%91-coderlzh-blue)](https://juejin.cn/user/1302284631804765/posts)
+[![blog](https://img.shields.io/badge/blog-前端笔记-red)](https://www.note.xl-ctf.top/)
 
-[![知乎](https://img.shields.io/badge/%E7%9F%A5%E4%B9%8E-mq%E7%99%BD-yello)](https://www.zhihu.com/people/o4ze4r)
-[![youtube](https://img.shields.io/badge/video-YouTube-red)](https://www.youtube.com/channel/UCey35Do4RGewqr-6EiaCJrg)
-
-![](https://img.shields.io/badge/喜欢-学习-blue)
-![](https://img.shields.io/badge/性格-开朗-red)
-
+<div style="display:flex;justify-content: center;gap:5px;">
+    <a href="https://v3.cn.vuejs.org">
+        <img height="20" src="./images/element plus.png">
+    </a>
+    <a href="https://v3.cn.vuejs.org">
+        <img height="20" src="./images/vue.png">
+    </a>
+    <a href="https://www.tslang.cn/index.html">
+        <img height="20" src="./images/typescript.png">
+    </a>
+    <a href="https://reactjs.org/">
+        <img height="20" src="./images/react.svg">
+    </a>
+    <a href="https://reactjs.org/">
+        <img height="20" src="./images/next.png">
+    </a>
+    <a href="https://cn.vitejs.dev">
+        <img height="20" src="./images/vite.png">
+    </a>
 </div>
 
-![背景](./images/background.jpg)
+![GitHub账户最常用语言](https://github-stats.ubrong.com/api/top-langs/?username=YicoFighting&layout=compact&theme=tokyonight)
 
-![Visitor Count](https://profile-counter.glitch.me/YicoFighting/count.svg)
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YicoFighting&theme=vue)
+
+<div style="display:flex;align-items:center;">
+<div style="flex:1;">
+    <img src="https://count.getloli.com/get/@:YicoFighting?theme=moebooru">
+</div>
+<div style="flex:1;">
+    <img src="./images/background.jpg">
+</div>
+</div>
+</div>
 
 [github-sub-title:img]: https://readme-typing-svg.herokuapp.com?font=Segoe+Script&center=true&lines=YicoFighting
