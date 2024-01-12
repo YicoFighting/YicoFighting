@@ -7,13 +7,9 @@
 
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YicoFighting&theme=vue)
 
-<div style="width:100%;display:flex;align-items:center;">
-    <div style="flex:2;">
-        <img src="https://github-stats.ubrong.com/api/top-langs/?username=YicoFighting&layout=compact&theme=tokyonight" alt="GitHub账户最常用语言"></img>
-    </div>
-    <div style="flex:1;">
-        <img src="https://count.getloli.com/get/@:YicoFighting?theme=moebooru">
-    </div>
+<div style=""width:50%;display:flex;">
+   <img style="width:70%" src="https://github-stats.ubrong.com/api/top-langs/?username=YicoFighting&layout=compact&theme=tokyonight" alt="GitHub账户最常用语言"></img>
+ <img style="width:30%" src="https://count.getloli.com/get/@:YicoFighting?theme=moebooru"></img>
 </div>
 
 </div>
